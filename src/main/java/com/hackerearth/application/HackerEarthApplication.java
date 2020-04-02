@@ -19,6 +19,7 @@ public class HackerEarthApplication {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Hai babji");
 		SpringApplication.run(HackerEarthApplication.class);
 	}
 
